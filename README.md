@@ -20,4 +20,4 @@ API: Free Personality API (e.g., Personality Insights, DPD Personality, etc.)
 Hosting: GitHub Pages / Netlify / Vercel (Optional)
 
 🌐 Live Demo
-🔗 Click here to view the live demo (replace with your live link)
+🔗 Click here to view the live demo (https://ghoshsurya.github.io/PERSONALITY/)
